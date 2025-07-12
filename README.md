@@ -44,6 +44,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Keys File 
+Please Generate Key file from https://cryptotools.net/rsagen
+and save file to directory keys/
+name private.key and public.key
+
+
 ## Run tests
 
 ```bash
@@ -56,6 +62,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+
 
 ## Deployment
 
